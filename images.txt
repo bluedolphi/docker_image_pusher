@@ -6,5 +6,9 @@ redis:6-alpine
 semitechnologies/weaviate:1.19.0
 langgenius/dify-sandbox:0.2.1
 ubuntu/squid:latest
+qdrant:v1.7.3
+semitechnologies/weaviate:1.19.0
 nginx:latest
+ubuntu/squid:latest
+pgvector/pgvector:pg16
 localai/localai:latest-aio-gpu-nvidia-cuda-12
