@@ -12,3 +12,4 @@ nginx:latest
 ubuntu/squid:latest
 pgvector/pgvector:pg16
 localai/localai:latest-aio-gpu-nvidia-cuda-12
+idootop/mi-gpt:latest
