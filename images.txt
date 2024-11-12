@@ -13,3 +13,10 @@ ubuntu/squid:latest
 pgvector/pgvector:pg16
 localai/localai:latest-aio-gpu-nvidia-cuda-12
 idootop/mi-gpt:latest
+ragflow/server:latest
+ragflow/worker:latest
+ragflow/scheduler:latest
+milvusdb/milvus:latest
+minio/minio:latest
+postgres:latest
+redis:latest
